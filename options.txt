@@ -1,0 +1,7 @@
+#do not change manually
+true
+#the next non-comment line determines what you want the program to do
+#color - relabels and sorts the images according to color using a greedy TSP algorithm
+#brightness - relabels images according to brightness
+#resolution - relabels images according to resolution
+color
